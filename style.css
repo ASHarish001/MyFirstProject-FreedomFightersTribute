@@ -1,0 +1,45 @@
+div{
+    text-align: center;
+}
+
+strong{
+    color: whitesmoke;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+
+body{
+    background-color: rgb(43, 38, 38);
+    color: white;
+}
+
+a{
+    color:white;
+    /* text-decoration: none; */
+}
+
+h2{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.box{
+    text-align:left;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 20px;
+}
+
+/* h2.box{
+    text-align: center;
+} */
+
+footer{
+    text-align: center;
+    /* text-decoration: underline; */
+}
